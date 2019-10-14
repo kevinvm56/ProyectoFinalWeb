@@ -37,15 +37,15 @@
         <span class="oi oi-menu"></span> Menu
       </button>
 
-      <div class="collapse navbar-collapse" id="ftco-nav">
+        <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
-          <li class="nav-item"><a href="about.html" class="nav-link">Nosotros</a></li>
+          <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
+          <li class="nav-item active"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
           <li class="nav-item"><a href="domain.html" class="nav-link">Portafolio</a></li>
           <li class="nav-item"><a class="nav-link" href="hosting.html">Tecnologias</a></li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
           <li class="nav-item"><a href="contacto.php" class="nav-link">Contacto</a></li>
-          <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos!</span></a></li>
+          <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos</span></a></li>
         </ul>
       </div>
     </div>
@@ -59,10 +59,9 @@
         <div class="slider-text d-md-flex align-items-center" data-scrollax-parent="true">
 
           <div class="one-forth pr-md-4 ftco-animate align-self-md-center" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">We Are Wild Deer  <br> 
+            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Nosotros somos Wild Deer  <br> 
            </h1> 
-           <h1 class="mb-4 pr-md-4" style="font-size:20pt;"> Development. <br> Design.<br> Analysis.<br> Structure Cabling.<br>Digital Marketing. <br>technical support
-.</h1>
+           <h1 class="mb-4 pr-md-4" style="font-size:20pt;"> Desarrollo. <br> Diseño.<br> Analisis.<br> Estructuracion de cableado.<br> Marketing digital. <br> Soporte tecnico.</h1>
             <p class="mb-md-5 mb-sm-3" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Soluciones en Tecnologias de la Información a tu medida.</p>
             <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary px-4 py-3">Empecemos!</a></p>
           </div>
@@ -86,9 +85,9 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 mt-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Get domain</span>
-            <h2 class="mb-4">Get A Domain Name</h2>
-            <p>With FREE Email, DNS, Theft Protection, and other features</p>
+            <span class="subheading">Obtener dominio</span>
+            <h2 class="mb-4">Obtener un nombre de dominio</h2>
+            <p>Con correo electrónico GRATUITO, DNS, protección contra robo y otras funciones</p>
           </div>
         </div>
     		<div class="row justify-content-center">
@@ -108,8 +107,8 @@
       <div class="container">
       	<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Services</span>
-            <h2 class="mb-4">Why choose us</h2>
+            <span class="subheading">Servicios</span>
+            <h2 class="mb-4">¿Porque elegirnos?</h2>
           </div>
         </div>
         <div class="row">
@@ -117,8 +116,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-guarantee"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">100% Uptime Guarantee</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Garantía de tiempo de actividad del 100%</h3>
               </div>
             </div>      
           </div>
@@ -126,8 +124,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-shield"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Safe and Secured</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Seguridad y proteccion</h3>
               </div>
             </div>    
           </div>
@@ -135,8 +132,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Our Dedicated Support</h3>
-                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                <h3 class="heading">Nuestro soporte dedicado</h3>
               </div>
             </div>      
           </div>
@@ -148,26 +144,26 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Pricing Plans</span>
-            <h2 class="mb-4">Our Best Pricing</h2>
+            <span class="subheading">Planes de precios</span>
+            <h2 class="mb-4">Mejores precios</h2>
           </div>
         </div>
     		<div class="row">
 	        <div class="col-md-3 ftco-animate">
 	          <div class="block-7">
 	            <div class="text-center">
-	            <h2 class="heading">Free</h2>
+	            <h2 class="heading">Gratis</h2>
 	            <span class="price"><sup>$</sup> <span class="number">0</span></span>
-	            <span class="excerpt d-block">100% free. Forever</span>
-	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Get Started</a>
+	            <span class="excerpt d-block">100% Gratis. Siempre</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Empezemos</a>
 	            
-	            <h3 class="heading-2 mb-3">Enjoy All The Features</h3>
+	            <h3 class="heading-2 mb-3">Disfruta todas las características</h3>
 	            
 	            <ul class="pricing-text">
-	              <li><strong>150 GB</strong> Bandwidth</li>
-	              <li><strong>100 GB</strong> Storage</li>
-	              <li><strong>$1.00 / GB</strong> Overages</li>
-	              <li>All features</li>
+	              <li><strong>150 GB</strong> Banda ancha</li>
+	              <li><strong>100 GB</strong> Almacenamiento</li>
+	              <li><strong>$1.00 / GB</strong> Excedentes</li>
+	              <li>Todas las características</li>
 	            </ul>
 	            </div>
 	          </div>
@@ -175,18 +171,18 @@
 	        <div class="col-md-3 ftco-animate">
 	          <div class="block-7">
 	            <div class="text-center">
-	            <h2 class="heading">Startup</h2>
+	            <h2 class="heading">Poner en marcha</h2>
 	            <span class="price"><sup>$</sup> <span class="number">19</span></span>
-	            <span class="excerpt d-block">All features are included</span>
-	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Get Started</a>
+	            <span class="excerpt d-block">Todas las caracteristicas estan incluidas</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Empezar</a>
 	            
-	            <h3 class="heading-2 mb-3">Enjoy All The Features</h3>
+	            <h3 class="heading-2 mb-3">Disfruta todas las caracteristicas</h3>
 	            
 	            <ul class="pricing-text">
-	              <li><strong>450 GB</strong> Bandwidth</li>
-	              <li><strong>400 GB</strong> Storage</li>
-	              <li><strong>$2.00 / GB</strong> Overages</li>
-	              <li>All features</li>
+	              <li><strong>450 GB</strong> Banda ancha</li>
+	              <li><strong>400 GB</strong> Almacenamiento</li>
+	              <li><strong>$2.00 / GB</strong> Excedentes</li>
+	              <li>Todas las caracteristicas</li>
 	            </ul>
 	            </div>
 	          </div>
@@ -196,16 +192,16 @@
 	            <div class="text-center">
 	            <h2 class="heading">Premium</h2>
 	            <span class="price"><sup>$</sup> <span class="number">49</span></span>
-	            <span class="excerpt d-block">All features are included</span>
-	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Get Started</a>
+	            <span class="excerpt d-block">Todas las caracteristicas incluidas</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Poner en marcha</a>
 	            
-	            <h3 class="heading-2 mb-3">Enjoy All The Features</h3>
+	            <h3 class="heading-2 mb-3">Disfruta todas las caracteristicas</h3>
 	            
 	            <ul class="pricing-text">
-	              <li><strong>250 GB</strong> Bandwidth</li>
-	              <li><strong>200 GB</strong> Storage</li>
-	              <li><strong>$5.00 / GB</strong> Overages</li>
-	              <li>All features</li>
+	              <li><strong>250 GB</strong> Banda ancha</li>
+	              <li><strong>200 GB</strong> Almacenamiento</li>
+	              <li><strong>$5.00 / GB</strong> Excedentes</li>
+	              <li>Todas las caracteristicas</li>
 	            </ul>
 	            </div>
 	          </div>
@@ -215,16 +211,16 @@
 	            <div class="text-center">
 	            <h2 class="heading">Pro</h2>
 	            <span class="price"><sup>$</sup> <span class="number">99</span></span>
-	            <span class="excerpt d-block">All features are included</span>
-	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Get Started</a>
+	            <span class="excerpt d-block">Todas las caracteristicas estan incluidas</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Poner en marcha</a>
 	            
-	            <h3 class="heading-2 mb-3">Enjoy All The Features</h3>
+	            <h3 class="heading-2 mb-3">Disfruta de todas la caracteristicas</h3>
 	            
 	            <ul class="pricing-text">
-	              <li><strong>450 GB</strong> Bandwidth</li>
-	              <li><strong>400 GB</strong> Storage</li>
-	              <li><strong>$20.00 / GB</strong> Overages</li>
-	              <li>All features</li>
+	              <li><strong>450 GB</strong> Banda ancha</li>
+	              <li><strong>400 GB</strong> Almacenamiento</li>
+	              <li><strong>$20.00 / GB</strong> Excedentes</li>
+	              <li>Todas las caracteristicas</li>
 	            </ul>
 	            </div>
 	          </div>
@@ -233,12 +229,12 @@
     	</div>
     </section>
 
-    <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_1.jpg);">
+   <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_1.jpg);">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2 class="mb-4">Some fun facts</h2>
-            <span class="subheading">More than 100,000 websites hosted</span>
+            <h2 class="mb-4">Algunos datos curiosos</h2>
+            <span class="subheading">Más de 100,000 sitios web alojados</span>
           </div>
         </div>
     		<div class="row justify-content-center">
@@ -248,7 +244,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="2000">0</strong>
-		                <span>CMS Installation</span>
+		                <span>Instalacion de CMS</span>
 		              </div>
 		            </div>
 		          </div>
@@ -256,7 +252,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="100">0</strong>
-		                <span>Awards Won</span>
+		                <span>Premios ganados</span>
 		              </div>
 		            </div>
 		          </div>
@@ -264,7 +260,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="32000">0</strong>
-		                <span>Registered Domains</span>
+		                <span>Dominios Registrados</span>
 		              </div>
 		            </div>
 		          </div>
@@ -272,7 +268,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="31998">0</strong>
-		                <span>Satisfied Customers</span>
+		                <span>Clientes satisfechos</span>
 		              </div>
 		            </div>
 		          </div>
@@ -286,8 +282,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Customer Says</span>
-            <h2 class="mb-4">Our satisfied customer says</h2>
+            <span class="subheading">El cliente dice</span>
+            <h2 class="mb-4">Nuestro cliente satisfecho dice</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
@@ -304,7 +300,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Marketing Manager</span>
+                    <span class="position">Gerente de marketing</span>
                   </div>
                 </div>
               </div>
@@ -318,7 +314,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Interface Designer</span>
+                    <span class="position">Diseñador de interfaz</span>
                   </div>
                 </div>
               </div>
@@ -332,7 +328,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">UI Designer</span>
+                    <span class="position">Diseñador de UI</span>
                   </div>
                 </div>
               </div>
@@ -346,7 +342,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Web Developer</span>
+                    <span class="position">Desarrollador web</span>
                   </div>
                 </div>
               </div>
@@ -360,7 +356,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">System Analytics</span>
+                    <span class="position">Analista de sistema</span>
                   </div>
                 </div>
               </div>
@@ -374,18 +370,18 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
     			<div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Services</span>
-            <h2 class="mb-4">How it works</h2>
+            <span class="subheading">Servicios</span>
+            <h2 class="mb-4">Como trabaja</h2>
           </div>
     		</div>
     		<div class="row">
           <div class="col-md-12 nav-link-wrap mb-5 pb-md-5 pb-sm-1 ftco-animate">
             <div class="nav ftco-animate nav-pills justify-content-center text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link active" id="v-pills-nextgen-tab" data-toggle="pill" href="#v-pills-nextgen" role="tab" aria-controls="v-pills-nextgen" aria-selected="true">Next gen VPS</a>
+              <a class="nav-link active" id="v-pills-nextgen-tab" data-toggle="pill" href="#v-pills-nextgen" role="tab" aria-controls="v-pills-nextgen" aria-selected="true">VPS de próxima generación</a>
 
-              <a class="nav-link" id="v-pills-performance-tab" data-toggle="pill" href="#v-pills-performance" role="tab" aria-controls="v-pills-performance" aria-selected="false">Performance</a>
+              <a class="nav-link" id="v-pills-performance-tab" data-toggle="pill" href="#v-pills-performance" role="tab" aria-controls="v-pills-performance" aria-selected="false">Rendimiento</a>
 
-              <a class="nav-link" id="v-pills-effect-tab" data-toggle="pill" href="#v-pills-effect" role="tab" aria-controls="v-pills-effect" aria-selected="false">Effectiveness</a>
+              <a class="nav-link" id="v-pills-effect-tab" data-toggle="pill" href="#v-pills-effect" role="tab" aria-controls="v-pills-effect" aria-selected="false">Eficiencia</a>
             </div>
           </div>
           <div class="col-md-12 align-items-center ftco-animate">
@@ -398,7 +394,7 @@
 	              		<img src="images/dashboard_full_1.jpg" class="img-fluid border" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
-		                <h2 class="mb-4">Next gen VPS hosting</h2>
+		                <h2 class="mb-4">Alojamiento VPS de próxima generación</h2>
 		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 		              </div>
@@ -411,7 +407,7 @@
 	              		<img src="images/dashboard_full_2.jpg" class="img-fluid border" alt="">
 	              	</div>
 	              	<div class="one-half order-first mr-md-5 align-self-center">
-		                <h2 class="mb-4">Performance VPS hosting</h2>
+		                <h2 class="mb-4">Alojamiento VPS de rendimiento</h2>
 		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 		              </div>
@@ -424,7 +420,7 @@
 	              		<img src="images/dashboard_full_1.jpg" class="img-fluid border" alt="">
 	              	</div>
 	              	<div class="one-half ml-md-5 align-self-center">
-		                <h2 class="mb-4">Effective VPS hosting</h2>
+		                <h2 class="mb-4">Alojamiento VPS efectivo</h2>
 		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 		              </div>
@@ -441,7 +437,7 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-              <h2>Subcribe to our Newsletter</h2>
+              <h2>Suscríbase a nuestro boletín</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
               <div class="row d-flex justify-content-center mt-5">
                 <div class="col-md-6">
@@ -475,8 +471,8 @@
               </a>
               <div class="text p-4 d-block">
                 <div class="meta mb-3">
-                  <div><a href="#">August 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">Octubre 2019</a></div>
+                  <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -489,8 +485,8 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">August 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">Octubre, 2018</a></div>
+                  <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -503,8 +499,8 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">August 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">Octrubre, 2018</a></div>
+                  <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>

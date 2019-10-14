@@ -37,13 +37,13 @@
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
-          <li class="nav-item active"><a href="about.html" class="nav-link">About</a></li>
-          <li class="nav-item"><a href="domain.html" class="nav-link">Domain</a></li>
-          <li class="nav-item"><a class="nav-link" href="hosting.html">Hosting</a></li>
+          <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
+          <li class="nav-item active"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
+          <li class="nav-item"><a href="domain.html" class="nav-link">Portafolio</a></li>
+          <li class="nav-item"><a class="nav-link" href="hosting.html">Tecnologias</a></li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-          <li class="nav-item cta"><a href="contact.html" class="nav-link"><span>Get started</span></a></li>
+          <li class="nav-item"><a href="contacto.php" class="nav-link">Contacto</a></li>
+          <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos</span></a></li>
         </ul>
       </div>
     </div>
@@ -58,8 +58,8 @@
       <div class="container-fluid">
         <div class="row no-gutters d-flex slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Home</a></span> <span>About</span></p>
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">About Us</h1>
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Inicio</a></span> <span>Nosotros</span></p>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Nosotros</h1>
           </div>
         </div>
       </div>
@@ -74,11 +74,11 @@
 		    		<div class="row">
 		          <div class="col-md-12 nav-link-wrap mb-5">
 		            <div class="nav ftco-animate nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-		              <a class="nav-link active" id="v-pills-whatwedo-tab" data-toggle="pill" href="#v-pills-whatwedo" role="tab" aria-controls="v-pills-whatwedo" aria-selected="true">What we do</a>
+		              <a class="nav-link active" id="v-pills-whatwedo-tab" data-toggle="pill" href="#v-pills-whatwedo" role="tab" aria-controls="v-pills-whatwedo" aria-selected="true">Que hacemos</a>
 
-		              <a class="nav-link" id="v-pills-mission-tab" data-toggle="pill" href="#v-pills-mission" role="tab" aria-controls="v-pills-mission" aria-selected="false">Our mission</a>
+		              <a class="nav-link" id="v-pills-mission-tab" data-toggle="pill" href="#v-pills-mission" role="tab" aria-controls="v-pills-mission" aria-selected="false">Nuestra mision</a>
 
-		              <a class="nav-link" id="v-pills-goal-tab" data-toggle="pill" href="#v-pills-goal" role="tab" aria-controls="v-pills-goal" aria-selected="false">Our goal</a>
+		              <a class="nav-link" id="v-pills-goal-tab" data-toggle="pill" href="#v-pills-goal" role="tab" aria-controls="v-pills-goal" aria-selected="false">Nuestra meta</a>
 		            </div>
 		          </div>
 		          <div class="col-md-12 d-flex align-items-center">
@@ -87,7 +87,7 @@
 
 		              <div class="tab-pane fade show active" id="v-pills-whatwedo" role="tabpanel" aria-labelledby="v-pills-whatwedo-tab">
 		              	<div>
-			                <h2 class="mb-4">Offering Reliable Hosting</h2>
+			                <h2 class="mb-4">Ofreciendo un alojamiento confiable</h2>
 			              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 			                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 				            </div>
@@ -95,7 +95,7 @@
 
 		              <div class="tab-pane fade" id="v-pills-mission" role="tabpanel" aria-labelledby="v-pills-mission-tab">
 		                <div>
-			                <h2 class="mb-4">Exceptional Web Solutions</h2>
+			                <h2 class="mb-4">Soluciones web excepcionales</h2>
 			              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 			                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 				            </div>
@@ -103,7 +103,7 @@
 
 		              <div class="tab-pane fade" id="v-pills-goal" role="tabpanel" aria-labelledby="v-pills-goal-tab">
 		                <div>
-			                <h2 class="mb-4">Help Our Customer</h2>
+			                <h2 class="mb-4">Ayuda a nuestro cliente</h2>
 			              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 			                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 				            </div>
@@ -120,8 +120,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Team</span>
-            <h2 class="mb-4">Our Team</h2>
+            <span class="subheading">Equipo</span>
+            <h2 class="mb-4">Nuestro equipo</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
@@ -140,7 +140,7 @@
             <div class="block-10">
               <div class="person-info mb-2">
                 <span class="name">Aldin Henderson</span>
-                <span class="position">Web Developer</span>
+                <span class="position">Desarrollador web</span>
               </div>
               <img src="images/person_3.jpg" alt="" class="img-fluid mb-3">
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
@@ -150,7 +150,7 @@
             <div class="block-10">
               <div class="person-info mb-2">
                 <span class="name">Mark Willis</span>
-                <span class="position">Lead Web Developer</span>
+                <span class="position">Desarrollador web principal</span>
               </div>
               <img src="images/person_2.jpg" alt="" class="img-fluid mb-3">
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
@@ -165,8 +165,8 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <h2 class="mb-4">Some fun facts</h2>
-            <span class="subheading">More than 100,000 websites hosted</span>
+            <h2 class="mb-4">Algunos datos curiosos</h2>
+            <span class="subheading">Más de 100,000 sitios web alojados</span>
           </div>
         </div>
     		<div class="row justify-content-center">
@@ -176,7 +176,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="2000">0</strong>
-		                <span>CMS Installation</span>
+		                <span>Instalacion de CMS</span>
 		              </div>
 		            </div>
 		          </div>
@@ -184,7 +184,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="100">0</strong>
-		                <span>Awards Won</span>
+		                <span>Premios ganados</span>
 		              </div>
 		            </div>
 		          </div>
@@ -192,7 +192,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="32000">0</strong>
-		                <span>Registered Domains</span>
+		                <span>Dominios Registrados</span>
 		              </div>
 		            </div>
 		          </div>
@@ -200,7 +200,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="31998">0</strong>
-		                <span>Satisfied Customers</span>
+		                <span>Clientes satisfechos</span>
 		              </div>
 		            </div>
 		          </div>
@@ -214,8 +214,8 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Customer Says</span>
-            <h2 class="mb-4">Our satisfied customer says</h2>
+            <span class="subheading">El cliente dice</span>
+            <h2 class="mb-4">Nuestro cliente satisfecho dice</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
@@ -232,7 +232,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Marketing Manager</span>
+                    <span class="position">Gerente de marketing</span>
                   </div>
                 </div>
               </div>
@@ -246,7 +246,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Interface Designer</span>
+                    <span class="position">Diseñador de interfaz</span>
                   </div>
                 </div>
               </div>
@@ -260,7 +260,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">UI Designer</span>
+                    <span class="position">Diseñador de UI</span>
                   </div>
                 </div>
               </div>
@@ -274,7 +274,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Web Developer</span>
+                    <span class="position">Desarrollador web</span>
                   </div>
                 </div>
               </div>
@@ -288,7 +288,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">System Analytics</span>
+                    <span class="position">Analista de sistema</span>
                   </div>
                 </div>
               </div>
@@ -306,19 +306,19 @@
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Raptor.</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-              <p class="mt-4"><a href="#" class="btn btn-primary p-3">Get in touch</a></p>
+              <p class="mt-4"><a href="#" class="btn btn-primary p-3">Ponte en contacto</a></p>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Unseful Links</h2>
+              <h2 class="ftco-heading-2">Enlaces útiles</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Servers</a></li>
                 <li><a href="#" class="py-2 d-block">Windos Hosting</a></li>
                 <li><a href="#" class="py-2 d-block">Cloud Hosting</a></li>
                 <li><a href="#" class="py-2 d-block">OS Servers</a></li>
                 <li><a href="#" class="py-2 d-block">Linux Servers</a></li>
-                <li><a href="#" class="py-2 d-block">Policy</a></li>
+                <li><a href="#" class="py-2 d-block">Política</a></li>
               </ul>
             </div>
           </div>
@@ -326,23 +326,23 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Navigational</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Home</a></li>
-                <li><a href="#" class="py-2 d-block">Domain</a></li>
-                <li><a href="#" class="py-2 d-block">Hosting</a></li>
-                <li><a href="#" class="py-2 d-block">About</a></li>
+                <li><a href="#" class="py-2 d-block">Inicio</a></li>
+                <li><a href="#" class="py-2 d-block">Portafolio</a></li>
+                <li><a href="#" class="py-2 d-block">Tecnologias</a></li>
+                <li><a href="#" class="py-2 d-block">Nosotros</a></li>
                 <li><a href="#" class="py-2 d-block">Blog</a></li>
-                <li><a href="#" class="py-2 d-block">Contact</a></li>
+                <li><a href="#" class="py-2 d-block">Contacto</a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
             	<div class="block-23 mb-3">
-	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
-	                <li><span class="icon icon-clock-o"></span><span class="text">Saturday &mdash; Sunday 8:00am - 5:00pm</span></li>
+	             <ul>
+	                <li><span class="icon icon-map-marker"></span><span class="text"> Azahar 37, Flores Magón, Mazatlán, Sinaloa, México</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+52 669 2236917</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@Wilddeer.com.mx</span></a></li>
+	                <li><span class="icon icon-clock-o"></span><span class="text">Lunes &mdash; Domingo 9:00am - 7:00pm</span></li>
 	              </ul>
 	            </div>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
