@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+  <head>
+    <title>Raptor - Free Bootstrap 4 Template by Colorlib</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
@@ -27,9 +25,10 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+  </head>
+  <body>
+    
+  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
       <a class="navbar-brand" href="index.html"><img src="imagenes/LogoWD.png"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,9 +49,9 @@
     </div>
   </nav>
     <!-- END nav -->
-
-      <!-- <div class="js-fullheight"> -->
-      <div class="hero-wrap">
+    
+    <!-- <div class="js-fullheight"> -->
+    <div class="hero-wrap">
       <div class="overlay"></div>
       <div class="circle-bg"></div>
       <div class="circle-bg-2"></div>
@@ -389,6 +388,5 @@
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
     
-    
-</body>
+  </body>
 </html>
