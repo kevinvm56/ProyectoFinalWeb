@@ -37,15 +37,23 @@
         <span class="oi oi-menu"></span> Menu
       </button>
 
-      <div class="collapse navbar-collapse" id="ftco-nav">
+        <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
+<<<<<<< HEAD
           <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
           <li class="nav-item"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
           <li class="nav-item"><a href="portafolio/portafolio.php" class="nav-link">Portafolio</a></li>
           <li class="nav-item"><a class="nav-link" href="tecnologias/tecnologias.php">Tecnologias</a></li>
           <li class="nav-item"><a href="" class="nav-link">Blog</a></li>
+=======
+          <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
+          <li class="nav-item active"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
+          <li class="nav-item"><a href="domain.html" class="nav-link">Portafolio</a></li>
+          <li class="nav-item"><a class="nav-link" href="hosting.html">Tecnologias</a></li>
+          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
           <li class="nav-item"><a href="contacto.php" class="nav-link">Contacto</a></li>
-          <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos!</span></a></li>
+          <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos</span></a></li>
         </ul>
       </div>
     </div>
@@ -59,9 +67,13 @@
         <div class="slider-text d-md-flex align-items-center" data-scrollax-parent="true">
 
           <div class="one-forth pr-md-4 ftco-animate align-self-md-center" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">We Are Wild Deer  <br> 
+            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Nosotros somos Wild Deer  <br> 
            </h1> 
+<<<<<<< HEAD
            <h1 class="mb-4 pr-md-4" style="font-size:20pt;"> Desarrollo. <br> Diseño.<br> Analisis.<br>Cableado Estructurado.<br>Marketing Digital. <br>Soporte Técnico.</h1>
+=======
+           <h1 class="mb-4 pr-md-4" style="font-size:20pt;"> Desarrollo. <br> Diseño.<br> Analisis.<br> Estructuracion de cableado.<br> Marketing digital. <br> Soporte tecnico.</h1>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
             <p class="mb-md-5 mb-sm-3" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Soluciones en Tecnologias de la Información a tu medida.</p>
             <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary px-4 py-3">Empecemos!</a></p>
           </div>
@@ -85,9 +97,15 @@
     	<div class="container">
     		<div class="row justify-content-center mb-5 mt-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
+<<<<<<< HEAD
             <span class="subheading">El futuro es hoy</span>
             <h2 class="mb-4">El mercado esta siendo cada vez más exigente, es por eso que en Wild Deer nos encargamos de ayudarte a estar a la orden del día en cuestiones Tecnologicas.</h2>
             <p>Tecnologías de la Información</p>
+=======
+            <span class="subheading">Obtener dominio</span>
+            <h2 class="mb-4">Obtener un nombre de dominio</h2>
+            <p>Con correo electrónico GRATUITO, DNS, protección contra robo y otras funciones</p>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
           </div>
         </div>
     		<div class="row justify-content-center">
@@ -103,7 +121,11 @@
       	<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
             <span class="subheading">Servicios</span>
+<<<<<<< HEAD
             <h2 class="mb-4">¿Por qué elegir Wild Deer?</h2>
+=======
+            <h2 class="mb-4">¿Porque elegirnos?</h2>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
           </div>
         </div>
         <div class="row">
@@ -111,8 +133,12 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-guarantee"></span></div></div>
               <div class="media-body p-2 mt-3">
+<<<<<<< HEAD
                 <h3 class="heading">100% Garantizados </h3>
                 <p>Trabajo garantizados bajo las mejores metodologias de trabajo.</p>
+=======
+                <h3 class="heading">Garantía de tiempo de actividad del 100%</h3>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
               </div>
             </div>      
           </div>
@@ -120,8 +146,12 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-shield"></span></div></div>
               <div class="media-body p-2 mt-3">
+<<<<<<< HEAD
                 <h3 class="heading">Seguridad y Protección</h3>
                 <p>La mayor seguridad en todos nuestros proyectos y la mejor protección.</p>
+=======
+                <h3 class="heading">Seguridad y proteccion</h3>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
               </div>
             </div>    
           </div>
@@ -129,8 +159,12 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support"></span></div></div>
               <div class="media-body p-2 mt-3">
+<<<<<<< HEAD
                 <h3 class="heading">Soporte Dedicado</h3>
                 <p>Soporte dedicado las 24 horas del días los 7 días de la semana.</p>
+=======
+                <h3 class="heading">Nuestro soporte dedicado</h3>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
               </div>
             </div>      
           </div>
@@ -138,14 +172,110 @@
       </div>
     </section>
 
+<<<<<<< HEAD
    
+=======
+    <section class="ftco-section bg-light">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-5">
+          <div class="col-md-7 text-center heading-section ftco-animate">
+            <span class="subheading">Planes de precios</span>
+            <h2 class="mb-4">Mejores precios</h2>
+          </div>
+        </div>
+    		<div class="row">
+	        <div class="col-md-3 ftco-animate">
+	          <div class="block-7">
+	            <div class="text-center">
+	            <h2 class="heading">Gratis</h2>
+	            <span class="price"><sup>$</sup> <span class="number">0</span></span>
+	            <span class="excerpt d-block">100% Gratis. Siempre</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Empezemos</a>
+	            
+	            <h3 class="heading-2 mb-3">Disfruta todas las características</h3>
+	            
+	            <ul class="pricing-text">
+	              <li><strong>150 GB</strong> Banda ancha</li>
+	              <li><strong>100 GB</strong> Almacenamiento</li>
+	              <li><strong>$1.00 / GB</strong> Excedentes</li>
+	              <li>Todas las características</li>
+	            </ul>
+	            </div>
+	          </div>
+	        </div>
+	        <div class="col-md-3 ftco-animate">
+	          <div class="block-7">
+	            <div class="text-center">
+	            <h2 class="heading">Poner en marcha</h2>
+	            <span class="price"><sup>$</sup> <span class="number">19</span></span>
+	            <span class="excerpt d-block">Todas las caracteristicas estan incluidas</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Empezar</a>
+	            
+	            <h3 class="heading-2 mb-3">Disfruta todas las caracteristicas</h3>
+	            
+	            <ul class="pricing-text">
+	              <li><strong>450 GB</strong> Banda ancha</li>
+	              <li><strong>400 GB</strong> Almacenamiento</li>
+	              <li><strong>$2.00 / GB</strong> Excedentes</li>
+	              <li>Todas las caracteristicas</li>
+	            </ul>
+	            </div>
+	          </div>
+	        </div>
+	        <div class="col-md-3 ftco-animate">
+	          <div class="block-7">
+	            <div class="text-center">
+	            <h2 class="heading">Premium</h2>
+	            <span class="price"><sup>$</sup> <span class="number">49</span></span>
+	            <span class="excerpt d-block">Todas las caracteristicas incluidas</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Poner en marcha</a>
+	            
+	            <h3 class="heading-2 mb-3">Disfruta todas las caracteristicas</h3>
+	            
+	            <ul class="pricing-text">
+	              <li><strong>250 GB</strong> Banda ancha</li>
+	              <li><strong>200 GB</strong> Almacenamiento</li>
+	              <li><strong>$5.00 / GB</strong> Excedentes</li>
+	              <li>Todas las caracteristicas</li>
+	            </ul>
+	            </div>
+	          </div>
+	        </div>
+	        <div class="col-md-3 ftco-animate">
+	          <div class="block-7">
+	            <div class="text-center">
+	            <h2 class="heading">Pro</h2>
+	            <span class="price"><sup>$</sup> <span class="number">99</span></span>
+	            <span class="excerpt d-block">Todas las caracteristicas estan incluidas</span>
+	            <a href="#" class="btn btn-primary d-block px-3 py-3 mb-4">Poner en marcha</a>
+	            
+	            <h3 class="heading-2 mb-3">Disfruta de todas la caracteristicas</h3>
+	            
+	            <ul class="pricing-text">
+	              <li><strong>450 GB</strong> Banda ancha</li>
+	              <li><strong>400 GB</strong> Almacenamiento</li>
+	              <li><strong>$20.00 / GB</strong> Excedentes</li>
+	              <li>Todas las caracteristicas</li>
+	            </ul>
+	            </div>
+	          </div>
+	        </div>
+	      </div>
+    	</div>
+    </section>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 
-    <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_1.jpg);">
+   <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_1.jpg);">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+<<<<<<< HEAD
             <h2 class="mb-4">Echa un vistazo!</h2>
             <span class="subheading">Más de 400 proyectos realizados</span>
+=======
+            <h2 class="mb-4">Algunos datos curiosos</h2>
+            <span class="subheading">Más de 100,000 sitios web alojados</span>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
           </div>
         </div>
     		<div class="row justify-content-center">
@@ -154,8 +284,13 @@
 		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
+<<<<<<< HEAD
 		                <strong class="number" data-number="160">0</strong>
 		                <span>Clientes satisfechos</span>
+=======
+		                <strong class="number" data-number="2000">0</strong>
+		                <span>Instalacion de CMS</span>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 		              </div>
 		            </div>
 		          </div>
@@ -163,7 +298,11 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="100">0</strong>
+<<<<<<< HEAD
 		                <span>Reconomientos obtenidos</span>
+=======
+		                <span>Premios ganados</span>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 		              </div>
 		            </div>
 		          </div>
@@ -171,7 +310,11 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="32000">0</strong>
+<<<<<<< HEAD
 		                <span>empleados</span>
+=======
+		                <span>Dominios Registrados</span>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 		              </div>
 		            </div>
 		          </div>
@@ -179,7 +322,11 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="31998">0</strong>
+<<<<<<< HEAD
 		                <span>Publico alcanzado</span>
+=======
+		                <span>Clientes satisfechos</span>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 		              </div>
 		            </div>
 		          </div>
@@ -193,8 +340,13 @@
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
+<<<<<<< HEAD
             <span class="subheading">Nuestros clientes han dicho</span>
             <h2 class="mb-4">Nuestros clientes satisfechos han dicho</h2>
+=======
+            <span class="subheading">El cliente dice</span>
+            <h2 class="mb-4">Nuestro cliente satisfecho dice</h2>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
@@ -211,7 +363,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Marketing Manager</span>
+                    <span class="position">Gerente de marketing</span>
                   </div>
                 </div>
               </div>
@@ -225,7 +377,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Interface Designer</span>
+                    <span class="position">Diseñador de interfaz</span>
                   </div>
                 </div>
               </div>
@@ -239,7 +391,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">UI Designer</span>
+                    <span class="position">Diseñador de UI</span>
                   </div>
                 </div>
               </div>
@@ -253,7 +405,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">Web Developer</span>
+                    <span class="position">Desarrollador web</span>
                   </div>
                 </div>
               </div>
@@ -267,7 +419,7 @@
                   <div class="text">
                     <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                     <p class="name">Dennis Green</p>
-                    <span class="position">System Analytics</span>
+                    <span class="position">Analista de sistema</span>
                   </div>
                 </div>
               </div>
@@ -277,15 +429,88 @@
       </div>
     </section>
 
+<<<<<<< HEAD
   
+=======
+    <section class="ftco-section">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-5">
+    			<div class="col-md-7 text-center heading-section ftco-animate">
+            <span class="subheading">Servicios</span>
+            <h2 class="mb-4">Como trabaja</h2>
+          </div>
+    		</div>
+    		<div class="row">
+          <div class="col-md-12 nav-link-wrap mb-5 pb-md-5 pb-sm-1 ftco-animate">
+            <div class="nav ftco-animate nav-pills justify-content-center text-center" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+              <a class="nav-link active" id="v-pills-nextgen-tab" data-toggle="pill" href="#v-pills-nextgen" role="tab" aria-controls="v-pills-nextgen" aria-selected="true">VPS de próxima generación</a>
+
+              <a class="nav-link" id="v-pills-performance-tab" data-toggle="pill" href="#v-pills-performance" role="tab" aria-controls="v-pills-performance" aria-selected="false">Rendimiento</a>
+
+              <a class="nav-link" id="v-pills-effect-tab" data-toggle="pill" href="#v-pills-effect" role="tab" aria-controls="v-pills-effect" aria-selected="false">Eficiencia</a>
+            </div>
+          </div>
+          <div class="col-md-12 align-items-center ftco-animate">
+            
+            <div class="tab-content ftco-animate" id="v-pills-tabContent">
+
+              <div class="tab-pane fade show active" id="v-pills-nextgen" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
+              	<div class="d-md-flex">
+	              	<div class="one-forth align-self-center">
+	              		<img src="images/dashboard_full_1.jpg" class="img-fluid border" alt="">
+	              	</div>
+	              	<div class="one-half ml-md-5 align-self-center">
+		                <h2 class="mb-4">Alojamiento VPS de próxima generación</h2>
+		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
+		              </div>
+	              </div>
+              </div>
+
+              <div class="tab-pane fade" id="v-pills-performance" role="tabpanel" aria-labelledby="v-pills-performance-tab">
+                <div class="d-md-flex">
+	              	<div class="one-forth order-last align-self-center">
+	              		<img src="images/dashboard_full_2.jpg" class="img-fluid border" alt="">
+	              	</div>
+	              	<div class="one-half order-first mr-md-5 align-self-center">
+		                <h2 class="mb-4">Alojamiento VPS de rendimiento</h2>
+		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
+		              </div>
+	              </div>
+              </div>
+
+              <div class="tab-pane fade" id="v-pills-effect" role="tabpanel" aria-labelledby="v-pills-effect-tab">
+                <div class="d-md-flex">
+	              	<div class="one-forth align-self-center">
+	              		<img src="images/dashboard_full_1.jpg" class="img-fluid border" alt="">
+	              	</div>
+	              	<div class="one-half ml-md-5 align-self-center">
+		                <h2 class="mb-4">Alojamiento VPS efectivo</h2>
+		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
+		              </div>
+	              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    	</div>
+    </section>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 
     <section class="ftco-section-parallax">
       <div class="parallax-img d-flex align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+<<<<<<< HEAD
               <h2>Suscribete a nuestro boletín</h2>
               <p>Onten promociones y otros anuncios a tu correo </p>
+=======
+              <h2>Suscríbase a nuestro boletín</h2>
+              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+>>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
               <div class="row d-flex justify-content-center mt-5">
                 <div class="col-md-6">
                   <form action="#" class="subscribe-form">
@@ -318,8 +543,8 @@
               </a>
               <div class="text p-4 d-block">
                 <div class="meta mb-3">
-                  <div><a href="#">August 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">Octubre 2019</a></div>
+                  <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -332,8 +557,8 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">August 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">Octubre, 2018</a></div>
+                  <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -346,8 +571,8 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">August 12, 2018</a></div>
-                  <div><a href="#">Admin</a></div>
+                  <div><a href="#">Octrubre, 2018</a></div>
+                  <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
