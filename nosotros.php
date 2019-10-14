@@ -37,7 +37,6 @@
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-<<<<<<< HEAD
           <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
           <li class="nav-item active"><a href="about.html" class="nav-link">Nosotros</a></li>
           <li class="nav-item"><a href="domain.html" class="nav-link">Portafolio</a></li>
@@ -45,7 +44,6 @@
           <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
           <li class="nav-item"><a href="contact.html" class="nav-link">Contacto</a></li>
           <li class="nav-item cta"><a href="contact.html" class="nav-link"><span>Empecemos!</span></a></li>
-=======
           <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
           <li class="nav-item active"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
           <li class="nav-item"><a href="domain.html" class="nav-link">Portafolio</a></li>
@@ -53,7 +51,6 @@
           <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
           <li class="nav-item"><a href="contacto.php" class="nav-link">Contacto</a></li>
           <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos</span></a></li>
->>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
         </ul>
       </div>
     </div>
@@ -69,11 +66,8 @@
         <div class="row no-gutters d-flex slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
             <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Inicio</a></span> <span>Nosotros</span></p>
-<<<<<<< HEAD
             <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Quienes somos</h1>
-=======
             <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Nosotros</h1>
->>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
           </div>
         </div>
       </div>
@@ -88,19 +82,12 @@
 		    		<div class="row">
 		          <div class="col-md-12 nav-link-wrap mb-5">
 		            <div class="nav ftco-animate nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-<<<<<<< HEAD
 		              <a class="nav-link active" id="v-pills-whatwedo-tab" data-toggle="pill" href="#v-pills-whatwedo" role="tab" aria-controls="v-pills-whatwedo" aria-selected="true">Qué hacemos</a>
-
 		              <a class="nav-link" id="v-pills-mission-tab" data-toggle="pill" href="#v-pills-mission" role="tab" aria-controls="v-pills-mission" aria-selected="false">Misión</a>
-
 		              <a class="nav-link" id="v-pills-goal-tab" data-toggle="pill" href="#v-pills-goal" role="tab" aria-controls="v-pills-goal" aria-selected="false">Visión</a>
-=======
 		              <a class="nav-link active" id="v-pills-whatwedo-tab" data-toggle="pill" href="#v-pills-whatwedo" role="tab" aria-controls="v-pills-whatwedo" aria-selected="true">Que hacemos</a>
-
 		              <a class="nav-link" id="v-pills-mission-tab" data-toggle="pill" href="#v-pills-mission" role="tab" aria-controls="v-pills-mission" aria-selected="false">Nuestra mision</a>
-
 		              <a class="nav-link" id="v-pills-goal-tab" data-toggle="pill" href="#v-pills-goal" role="tab" aria-controls="v-pills-goal" aria-selected="false">Nuestra meta</a>
->>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 		            </div>
 		          </div>
 		          <div class="col-md-12 d-flex align-items-center">
@@ -109,18 +96,14 @@
 
 		              <div class="tab-pane fade show active" id="v-pills-whatwedo" role="tabpanel" aria-labelledby="v-pills-whatwedo-tab">
 		              	<div>
-<<<<<<< HEAD
 			                <h2 class="mb-4">Que es lo que hacemos</h2>
 			              	<p>Wild Deer es una empresa Mexicana, dedicada a ayudar a empresas y a cualquier tipo de organización que requiera de soluciones tecnologicas.</p>
 			                <p>Diseñamos y desarrollamos sistemas integrales,Aplicaciones moviles y aplicaciones web. Ademas ofrecemos los servicios de marketing digital, cableado estructurado y soporte tecnico las 24 horas del día los 7 dias de la semana</p>
-=======
 			                <h2 class="mb-4">Ofreciendo un alojamiento confiable</h2>
 			              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 			                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
->>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
 				            </div>
 		              </div>
-
 		              <div class="tab-pane fade" id="v-pills-mission" role="tabpanel" aria-labelledby="v-pills-mission-tab">
 		                <div>
 			                <h2 class="mb-4">Soluciones web excepcionales</h2>
@@ -128,7 +111,6 @@
 			                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
 				            </div>
 		              </div>
-
 		              <div class="tab-pane fade" id="v-pills-goal" role="tabpanel" aria-labelledby="v-pills-goal-tab">
 		                <div>
 			                <h2 class="mb-4">Ayuda a nuestro cliente</h2>
@@ -143,23 +125,19 @@
 		    </div>
     	</div>
     </section>
-    
     <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-<<<<<<< HEAD
             <span class="subheading">Colaboradores
 
 
             </span>
             <h2 class="mb-4">Nuestro equipo</h2>
             <p>El equipo de Wild Deer esta conformado por jovenes visionarios, apasionados por las nuevas tecnologias y el ayudar a las demas personas a resolver sus problemas de una manera más eficiente</p>
-=======
             <span class="subheading">Equipo</span>
             <h2 class="mb-4">Nuestro equipo</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
->>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
           </div>
         </div>
         <div class="row">
@@ -176,13 +154,10 @@
           <div class="col-md-4 mb-5 ftco-animate">
             <div class="block-10">
               <div class="person-info mb-2">
-<<<<<<< HEAD
                 <span class="name">Alfredo Magaña Soto</span>
                 <span class="position">Co fundador & desarrollador web</span>
-=======
                 <span class="name">Aldin Henderson</span>
                 <span class="position">Desarrollador web</span>
->>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
               </div>
               <img src="images/person_3.jpg" alt="" class="img-fluid mb-3">
               <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
@@ -201,13 +176,7 @@
         </div>
       </div>
     </section>
-  
-    
-<<<<<<< HEAD
-  
 
-
-=======
     <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_1.jpg);">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
@@ -344,8 +313,6 @@
         </div>
       </div>
     </section>
->>>>>>> 2be007a92d0d55ac31ca72323d71caf0f0ae1ff7
-
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
