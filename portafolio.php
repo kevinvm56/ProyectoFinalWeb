@@ -138,6 +138,8 @@
                 <span class="position">Octubre, 2019</span>
               </div>
               <img src="imagenes/age.jpg" alt="" class="img-fluid mb-3">
+
+              <img src="imagenes/about.jpg" alt="" class="img-fluid mb-3">
               <p>Pagina enfocada en ventas de articulos informaticos.</p>
             </div>
           </div>
