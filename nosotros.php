@@ -38,6 +38,7 @@
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
 
+
         <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
           <li class="nav-item"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
           <li class="nav-item"><a href="portafolio.php" class="nav-link">Portafolio</a></li>
@@ -45,6 +46,7 @@
           <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
           <li class="nav-item"><a href="contacto.php" class="nav-link">Contacto</a></li>
           <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos</span></a></li>
+
 
         </ul>
       </div>
@@ -62,9 +64,10 @@
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
             <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Inicio</a></span> <span>Nosotros</span></p>
 
+
             <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Quienes somos</h1>
 
-            
+
           </div>
         </div>
       </div>
@@ -80,10 +83,9 @@
 		          <div class="col-md-12 nav-link-wrap mb-5">
 		            <div class="nav ftco-animate nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 
+
 		              <a class="nav-link active" id="v-pills-whatwedo-tab" data-toggle="pill" href="#v-pills-whatwedo" role="tab" aria-controls="v-pills-whatwedo" aria-selected="true">Qué hacemos</a>
-
 		              <a class="nav-link" id="v-pills-mission-tab" data-toggle="pill" href="#v-pills-mission" role="tab" aria-controls="v-pills-mission" aria-selected="false">Misión</a>
-
 		              <a class="nav-link" id="v-pills-goal-tab" data-toggle="pill" href="#v-pills-goal" role="tab" aria-controls="v-pills-goal" aria-selected="false">Visión</a>
 
 
@@ -96,13 +98,15 @@
 		              <div class="tab-pane fade show active" id="v-pills-whatwedo" role="tabpanel" aria-labelledby="v-pills-whatwedo-tab">
 		              	<div>
 
+
 			                <h2 class="mb-4">Que es lo que hacemos</h2>
 			              	<p>Wild Deer es una empresa Mexicana, dedicada a ayudar a empresas y a cualquier tipo de organización que requiera de soluciones tecnologicas.</p>
 			                <p>Diseñamos y desarrollamos sistemas integrales,Aplicaciones moviles y aplicaciones web. Ademas ofrecemos los servicios de marketing digital, cableado estructurado y soporte tecnico las 24 horas del día los 7 dias de la semana</p>
 
+
+
 				            </div>
 		              </div>
-
 		              <div class="tab-pane fade" id="v-pills-mission" role="tabpanel" aria-labelledby="v-pills-mission-tab">
 		                <div>
 			                <h2 class="mb-4">Nuestra misión</h2>
@@ -110,7 +114,6 @@
 			                <p>Ayudar a nuestros clientes a contestar el mundo de las tecnologias</p>
 				            </div>
 		              </div>
-
 		              <div class="tab-pane fade" id="v-pills-goal" role="tabpanel" aria-labelledby="v-pills-goal-tab">
 		                <div>
 			                <h2 class="mb-4">Nuestra visión</h2>
@@ -125,7 +128,6 @@
 		    </div>
     	</div>
     </section>
-    
     <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
@@ -169,8 +171,9 @@
         </div>
       </div>
     </section>
-  
-    
+
+
+
 
     <section class="ftco-section testimony-section bg-light">
       <div class="container">
