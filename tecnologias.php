@@ -2,10 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Wild Deer</title>
 
-    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
@@ -37,10 +36,9 @@
         <span class="oi oi-menu"></span> Menu
       </button>
 
-        <div class="collapse navbar-collapse" id="ftco-nav">
+      <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-
-          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
+        <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
           <li class="nav-item"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
           <li class="nav-item"><a href="portafolio.php" class="nav-link">Portafolio</a></li>
           <li class="nav-item"><a class="nav-link" href="tecnologias.php">Tecnologias</a></li>
@@ -51,130 +49,76 @@
       </div>
     </div>
   </nav>
-    <!-- END MENU -->
-    <div class="hero-wrap">
+    <!-- END nav -->
+
+      <!-- <div class="js-fullheight"> -->
+      <div class="hero-wrap">
       <div class="overlay"></div>
       <div class="circle-bg"></div>
       <div class="circle-bg-2"></div>
       <div class="container-fluid">
-        <div class="slider-text d-md-flex align-items-center" data-scrollax-parent="true">
-
-          <div class="one-forth pr-md-4 ftco-animate align-self-md-center" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">We Are Wild Deer  <br> 
-           </h1> 
-
-           <h1 class="mb-4 pr-md-4" style="font-size:20pt;"> Desarrollo. <br> Diseño.<br> Analisis.<br>Cableado Estructurado.<br>Marketing Digital. <br>Soporte Técnico.</h1>
-  
-
-            <p class="mb-md-5 mb-sm-3" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Soluciones en Tecnologias de la Información a tu medida.</p>
-            <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary px-4 py-3">Empecemos!</a></p>
-          </div>
-          <div class="one-half align-self-md-end align-self-sm-center">
-          	<div class="slider-carousel owl-carousel">
-          		<div class="item">
-			          <img src="imagenes/.png" class="img-fluid img"alt="">
-		          </div>
-		          <div class="item">
-			          <img src="imagenes/" class="img-fluid img"alt="">
-		          </div>
-		          <div class="item">
-			          <img src="imagenes/" class="img-fluid img"alt="">
-		          </div>
-	          </div>
+        <div class="row no-gutters d-flex slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Inicio</a></span> <span>Tecnologias</span></p>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Tecnologias</h1>
           </div>
         </div>
       </div>
     </div>
-    <section class="ftco-section bg-light">
-    	<div class="container">
-    		<div class="row justify-content-center mb-5 mt-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
 
-            <span class="subheading">El futuro es hoy</span>
-            <h2 class="mb-4">El mercado esta siendo cada vez más exigente, es por eso que en Wild Deer nos encargamos de ayudarte a estar a la orden del día en cuestiones Tecnologicas.</h2>
-            <p>Tecnologías de la Información</p>
 
-      
-
-          </div>
-        </div>
-    		<div class="row justify-content-center">
-    			<div class="col-md-8 ftco-animate">
-    		
-           
-    			</div>
-    		</div>
-    	</div>
-    </section>
-    <section class="ftco-section services-section">
+    
+    <section class="ftco-section">
       <div class="container">
-      	<div class="row justify-content-center mb-5 pb-5">
+        <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Servicios</span>
-
-            <h2 class="mb-4">¿Por qué elegir Wild Deer?</h2>
-
-           
-
+            <span class="subheading">Tecnologias</span>
+            <h2 class="mb-4">Tecnologias utilizadas en  nuestros proyectos</h2>
+            <p>Para nosotros es muy importante utilizar las mejores tecnologias y las más actualizadas es por ello que acontinuación te mostramos algunas de las tecnologias.</p>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
-            <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-guarantee"></span></div></div>
-              <div class="media-body p-2 mt-3">
-
-                <h3 class="heading">100% Garantizados </h3>
-                <p>Trabajo garantizados bajo las mejores metodologias de trabajo.</p>
-
-
+          <div class="col-md-4 mb-5 ftco-animate">
+            <div class="block-10">
+              <div class="person-info mb-2">
+                <span class="name">Tecnologia 1</span>
+                <span class="position"> porque utilizarlo</span>
               </div>
-            </div>      
+              <img src="imagenes/person_1.jpg" alt="" class="img-fluid mb-3">
+              <p>Descripcion.</p>
+            </div>
           </div>
-          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
-            <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-shield"></span></div></div>
-              <div class="media-body p-2 mt-3">
-                <h3 class="heading">Seguridad y Protección</h3>
-                <p>La mayor seguridad en todos nuestros proyectos y la mejor protección.</p>
-
-              
-
+          <div class="col-md-4 mb-5 ftco-animate">
+            <div class="block-10">
+              <div class="person-info mb-2">
+                <span class="name">Tecnologia 1</span>
+                <span class="position"> porque utilizarlo</span>
               </div>
-            </div>    
+              <img src="imagenes/person_1.jpg" alt="" class="img-fluid mb-3">
+              <p>Descripcion.</p>
+            </div>
           </div>
-          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
-            <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support"></span></div></div>
-              <div class="media-body p-2 mt-3">
-
-                <h3 class="heading">Soporte Dedicado</h3>
-                <p>Soporte dedicado las 24 horas del días los 7 días de la semana.</p>
-
-              
-
+          <div class="col-md-4 mb-5 ftco-animate">
+            <div class="block-10">
+              <div class="person-info mb-2">
+                <span class="name">Tecnologia 1</span>
+                <span class="position"> porque utilizarlo</span>
               </div>
-            </div>      
+              <img src="imagenes/person_1.jpg" alt="" class="img-fluid mb-3">
+              <p>Descripcion.</p>
+            </div>
           </div>
         </div>
       </div>
     </section>
-
-
-   
-
-
-
-   <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(imagenes/bg_1.jpg);">
+  
+    
+    <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(imagenes/bg_1.jpg);">
     	<div class="container">
     		<div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-
-            <h2 class="mb-4">Echa un vistazo!</h2>
-            <span class="subheading">Más de 400 proyectos realizados</span>
-
-         
-
+            <h2 class="mb-4">Datos sobre estas tecnologias</h2>
+            <span class="subheading">More than 100,000 websites hosted</span>
           </div>
         </div>
     		<div class="row justify-content-center">
@@ -183,11 +127,8 @@
 		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-
-		                <strong class="number" data-number="160">0</strong>
-		                <span>Clientes satisfechos</span>
-
-		               
+		                <strong class="number" data-number="2000">0</strong>
+		                <span>CMS Installation</span>
 		              </div>
 		            </div>
 		          </div>
@@ -195,10 +136,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="100">0</strong>
-
-		                <span>Reconomientos obtenidos</span>
-
-		            
+		                <span>Awards Won</span>
 		              </div>
 		            </div>
 		          </div>
@@ -206,11 +144,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="32000">0</strong>
-
-		                <span>empleados</span>
-
-		             
-
+		                <span>Registered Domains</span>
 		              </div>
 		            </div>
 		          </div>
@@ -218,10 +152,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="31998">0</strong>
-
-		                <span>Publico alcanzado</span>
-
-
+		                <span>Satisfied Customers</span>
 		              </div>
 		            </div>
 		          </div>
@@ -231,87 +162,8 @@
     	</div>
     </section>
 
-  
 
-    <section class="ftco-section-parallax">
-      <div class="parallax-img d-flex align-items-center">
-        <div class="container">
-          <div class="row d-flex justify-content-center">
-            <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-              <h2>Suscribete a nuestro boletín</h2>
-              <p>Obten promociones y otros anuncios a tu correo </p>
 
-              <div class="row d-flex justify-content-center mt-5">
-                <div class="col-md-6">
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group">
-                      <span class="icon icon-paper-plane"></span>
-                      <input type="text" class="form-control" placeholder="Ingresa tu correo">
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="ftco-section bg-light">
-      <div class="container">
-        <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Blog</span>
-            <h2>Publicado recientemente</h2>
-            <p>Algunos de nuestros articulos destacados</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_1.jpg');">
-              </a>
-              <div class="text p-4 d-block">
-                <div class="meta mb-3">
-                  <div><a href="#">Octubre 2019</a></div>
-                  <div><a href="#">Administrador</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="blog-entry" data-aos-delay="100">
-              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_2.jpg');">
-              </a>
-              <div class="text p-4">
-                <div class="meta mb-3">
-                  <div><a href="#">Octubre, 2018</a></div>
-                  <div><a href="#">Administrador</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 ftco-animate">
-            <div class="blog-entry" data-aos-delay="200">
-              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_3.jpg');">
-              </a>
-              <div class="text p-4">
-                <div class="meta mb-3">
-                  <div><a href="#">Octrubre, 2018</a></div>
-                  <div><a href="#">Administrador</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
@@ -401,7 +253,7 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
- 
-
+    
+    
 </body>
 </html>

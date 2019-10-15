@@ -38,11 +38,11 @@
 
         <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item"><a href="index.php" class="nav-link">Inicio</a></li>
-          <li class="nav-item active"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
-          <li class="nav-item"><a href="domain.html" class="nav-link">Portafolio</a></li>
-          <li class="nav-item"><a class="nav-link" href="hosting.html">Tecnologias</a></li>
-          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+        <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
+          <li class="nav-item"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
+          <li class="nav-item"><a href="portafolio.php" class="nav-link">Portafolio</a></li>
+          <li class="nav-item"><a class="nav-link" href="tecnologias.php">Tecnologias</a></li>
+          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
           <li class="nav-item"><a href="contacto.php" class="nav-link">Contacto</a></li>
           <li class="nav-item cta"><a href="contacto.php" class="nav-link"><span>Empecemos</span></a></li>
         </ul>
@@ -70,39 +70,39 @@
       <div class="container">
         <div class="row d-flex mb-5 contact-info">
           <div class="col-md-12 mb-4">
-            <h2 class="h4">Contact Information</h2>
+            <h2 class="h4">Informacion de contacto</h2>
           </div>
           <div class="w-100"></div>
           <div class="col-md-3">
-            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+            <p><span>domicilio:</span> Azahar 37, Flores Magón, Mazatlán, Sinaloa, México</p>
           </div>
           <div class="col-md-3">
-            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+            <p><span>Telefono:</span> <a href="tel://1234567920">+52 6692236917</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@Wilddeer.com.mx</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+            <p><span>Sitio Web</span> <a href="#">Wilddeer.com.mx</a></p>
           </div>
         </div>
         <div class="row block-9">
           <div class="col-md-6 pr-md-5">
             <form action="#">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Name">
+                <input type="text" class="form-control" placeholder="Ingresa tu nombre">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Email">
+                <input type="text" class="form-control" placeholder="Ingresa tu correo">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
+                <input type="text" class="form-control" placeholder="Asunto">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Escribe tu mensaje"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+                <input type="submit" value="Enviar" class="btn btn-primary py-3 px-5">
               </div>
             </form>
           

@@ -37,10 +37,9 @@
         <span class="oi oi-menu"></span> Menu
       </button>
 
-        <div class="collapse navbar-collapse" id="ftco-nav">
+      <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-
-          <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
+        <li class="nav-item active"><a href="index.php" class="nav-link">Inicio</a></li>
           <li class="nav-item"><a href="nosotros.php" class="nav-link">Nosotros</a></li>
           <li class="nav-item"><a href="portafolio.php" class="nav-link">Portafolio</a></li>
           <li class="nav-item"><a class="nav-link" href="tecnologias.php">Tecnologias</a></li>
@@ -52,220 +51,24 @@
     </div>
   </nav>
     <!-- END MENU -->
+     
+    <!-- <div class="js-fullheight"> -->
     <div class="hero-wrap">
       <div class="overlay"></div>
       <div class="circle-bg"></div>
       <div class="circle-bg-2"></div>
       <div class="container-fluid">
-        <div class="slider-text d-md-flex align-items-center" data-scrollax-parent="true">
-
-          <div class="one-forth pr-md-4 ftco-animate align-self-md-center" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">We Are Wild Deer  <br> 
-           </h1> 
-
-           <h1 class="mb-4 pr-md-4" style="font-size:20pt;"> Desarrollo. <br> Diseño.<br> Analisis.<br>Cableado Estructurado.<br>Marketing Digital. <br>Soporte Técnico.</h1>
-  
-
-            <p class="mb-md-5 mb-sm-3" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Soluciones en Tecnologias de la Información a tu medida.</p>
-            <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="#" class="btn btn-primary px-4 py-3">Empecemos!</a></p>
-          </div>
-          <div class="one-half align-self-md-end align-self-sm-center">
-          	<div class="slider-carousel owl-carousel">
-          		<div class="item">
-			          <img src="imagenes/.png" class="img-fluid img"alt="">
-		          </div>
-		          <div class="item">
-			          <img src="imagenes/" class="img-fluid img"alt="">
-		          </div>
-		          <div class="item">
-			          <img src="imagenes/" class="img-fluid img"alt="">
-		          </div>
-	          </div>
+        <div class="row no-gutters d-flex slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Inicio</a></span> <span>Blog</span></p>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Blog</h1>
           </div>
         </div>
       </div>
     </div>
-    <section class="ftco-section bg-light">
-    	<div class="container">
-    		<div class="row justify-content-center mb-5 mt-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-
-            <span class="subheading">El futuro es hoy</span>
-            <h2 class="mb-4">El mercado esta siendo cada vez más exigente, es por eso que en Wild Deer nos encargamos de ayudarte a estar a la orden del día en cuestiones Tecnologicas.</h2>
-            <p>Tecnologías de la Información</p>
-
-      
-
-          </div>
-        </div>
-    		<div class="row justify-content-center">
-    			<div class="col-md-8 ftco-animate">
-    		
-           
-    			</div>
-    		</div>
-    	</div>
-    </section>
-    <section class="ftco-section services-section">
-      <div class="container">
-      	<div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Servicios</span>
-
-            <h2 class="mb-4">¿Por qué elegir Wild Deer?</h2>
-
-           
-
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
-            <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-guarantee"></span></div></div>
-              <div class="media-body p-2 mt-3">
-
-                <h3 class="heading">100% Garantizados </h3>
-                <p>Trabajo garantizados bajo las mejores metodologias de trabajo.</p>
-
-
-              </div>
-            </div>      
-          </div>
-          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
-            <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-shield"></span></div></div>
-              <div class="media-body p-2 mt-3">
-                <h3 class="heading">Seguridad y Protección</h3>
-                <p>La mayor seguridad en todos nuestros proyectos y la mejor protección.</p>
-
-              
-
-              </div>
-            </div>    
-          </div>
-          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
-            <div class="media block-6 services d-block text-center">
-              <div class="d-flex justify-content-center"><div class="icon"><span class="flaticon-support"></span></div></div>
-              <div class="media-body p-2 mt-3">
-
-                <h3 class="heading">Soporte Dedicado</h3>
-                <p>Soporte dedicado las 24 horas del días los 7 días de la semana.</p>
-
-              
-
-              </div>
-            </div>      
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-   
-
-
-
-   <section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(imagenes/bg_1.jpg);">
-    	<div class="container">
-    		<div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-
-            <h2 class="mb-4">Echa un vistazo!</h2>
-            <span class="subheading">Más de 400 proyectos realizados</span>
-
-         
-
-          </div>
-        </div>
-    		<div class="row justify-content-center">
-    			<div class="col-md-10">
-		    		<div class="row">
-		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18 text-center">
-		              <div class="text">
-
-		                <strong class="number" data-number="160">0</strong>
-		                <span>Clientes satisfechos</span>
-
-		               
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18 text-center">
-		              <div class="text">
-		                <strong class="number" data-number="100">0</strong>
-
-		                <span>Reconomientos obtenidos</span>
-
-		            
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18 text-center">
-		              <div class="text">
-		                <strong class="number" data-number="32000">0</strong>
-
-		                <span>empleados</span>
-
-		             
-
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18 text-center">
-		              <div class="text">
-		                <strong class="number" data-number="31998">0</strong>
-
-		                <span>Publico alcanzado</span>
-
-
-		              </div>
-		            </div>
-		          </div>
-		        </div>
-	        </div>
-        </div>
-    	</div>
-    </section>
-
-  
-
-    <section class="ftco-section-parallax">
-      <div class="parallax-img d-flex align-items-center">
-        <div class="container">
-          <div class="row d-flex justify-content-center">
-            <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-              <h2>Suscribete a nuestro boletín</h2>
-              <p>Obten promociones y otros anuncios a tu correo </p>
-
-              <div class="row d-flex justify-content-center mt-5">
-                <div class="col-md-6">
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group">
-                      <span class="icon icon-paper-plane"></span>
-                      <input type="text" class="form-control" placeholder="Ingresa tu correo">
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <section class="ftco-section bg-light">
       <div class="container">
-        <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Blog</span>
-            <h2>Publicado recientemente</h2>
-            <p>Algunos de nuestros articulos destacados</p>
-          </div>
-        </div>
         <div class="row">
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
@@ -273,8 +76,8 @@
               </a>
               <div class="text p-4 d-block">
                 <div class="meta mb-3">
-                  <div><a href="#">Octubre 2019</a></div>
-                  <div><a href="#">Administrador</a></div>
+                  <div><a href="#">August 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -287,8 +90,8 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">Octubre, 2018</a></div>
-                  <div><a href="#">Administrador</a></div>
+                  <div><a href="#">August 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -301,8 +104,50 @@
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
-                  <div><a href="#">Octrubre, 2018</a></div>
-                  <div><a href="#">Administrador</a></div>
+                  <div><a href="#">August 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_4.jpg');">
+              </a>
+              <div class="text p-4 d-block">
+                <div class="meta mb-3">
+                  <div><a href="#">August 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry" data-aos-delay="100">
+              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_5.jpg');">
+              </a>
+              <div class="text p-4">
+                <div class="meta mb-3">
+                  <div><a href="#">August 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
+                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                </div>
+                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ftco-animate">
+            <div class="blog-entry" data-aos-delay="200">
+              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_6.jpg');">
+              </a>
+              <div class="text p-4">
+                <div class="meta mb-3">
+                  <div><a href="#">August 12, 2018</a></div>
+                  <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
                 <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
@@ -310,8 +155,25 @@
             </div>
           </div>
         </div>
+        <div class="row mt-5">
+          <div class="col text-center">
+            <div class="block-27">
+              <ul>
+                <li><a href="#">&lt;</a></li>
+                <li class="active"><span>1</span></li>
+                <li><a href="#">2</a></li>
+                <li><a href="#">3</a></li>
+                <li><a href="#">4</a></li>
+                <li><a href="#">5</a></li>
+                <li><a href="#">&gt;</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
+
+
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
@@ -371,7 +233,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Wild Deer TI  Solutions <i class="icon-heart" aria-hidden="true"></i> by <a href="" target="_blank"></a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
@@ -401,7 +263,6 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
- 
-
-</body>
+    
+  </body>
 </html>
