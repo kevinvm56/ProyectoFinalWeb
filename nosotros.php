@@ -154,8 +154,8 @@
                 <span class="position">Co fundador & desarrollador web</span>
 
               </div>
-              <img src="imagenes/person_3.jpg" alt="" class="img-fluid mb-3">
-              <p>Escribe algo tuyo aqui.</p>
+              <img src="imagenes/yo.jpg" alt="" class="img-fluid mb-3">
+              <p>Si lo puedes imaginar lo puedes programar.</p>
             </div>
           </div>
           <div class="col-md-4 mb-5 ftco-animate">
@@ -164,7 +164,7 @@
                 <span class="name">Kevin Vázquez Morales</span>
                 <span class="position">Ceo & Fundador</span>
               </div>
-              <img src="imagenes/person_1.jpg" alt="" class="img-fluid mb-3">
+              <img src="imagenes/Kevin.jpg" alt="" class="img-fluid mb-3">
               <p>Existe una gran cantidad de gente con talento, que lo unico que requieren es motivación y una oportunidad.</p>
             </div>
           </div>

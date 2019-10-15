@@ -80,7 +80,7 @@
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">La computación en nube ofrece la posibilidad de tener los archivos e información en Internet y sin depender de un dispositivo para almacenar información.</a></h3>
               </div>
             </div>
           </div>
@@ -94,7 +94,7 @@
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">La gamificación ha sido uno de los aspectos más destacados este año. Consiste en utilizar mecánicas de juego en entornos y aplicaciones no necesariamente lúdicas.</a></h3>
               </div>
             </div>
           </div>
@@ -108,7 +108,7 @@
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">La AI no tiene límites. Si ya bien la conocíamos, prepárate para verla mejorada y con más posibilidades de aplicarla.</a></h3>
               </div>
             </div>
           </div>
@@ -122,7 +122,7 @@
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">La tecnología facial se extiende pese a sus fallos y al miedo de ser vigilado.</a></h3>
               </div>
             </div>
           </div>
@@ -136,7 +136,7 @@
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">las aplicaciones para smartphones y tabletas están en auge. Para desarrollar apps interesantes se necesitan profesionales con formación como desarrolladores de tecnologías móviles.</a></h3>
               </div>
             </div>
           </div>
@@ -150,7 +150,7 @@
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                <h3 class="heading"><a href="#">Dinero digital, sí estás leyendo bien. La primera se trata de una criptomoneda y la segunda es el sistema de contabilidad</a></h3>
               </div>
             </div>
           </div>
