@@ -81,31 +81,31 @@
           <div class="col-md-4 mb-5 ftco-animate">
             <div class="block-10">
               <div class="person-info mb-2">
-                <span class="name">Tecnologia 1</span>
+                <span class="name">React</span>
                 <span class="position"> porque utilizarlo</span>
               </div>
-              <img src="imagenes/person_1.jpg" alt="" class="img-fluid mb-3">
-              <p>Descripcion.</p>
+              <img src="imagenes/react.jpg" alt="" class="img-fluid mb-3">
+              <p>Amplia comunidad. Al estar basado en JavaScript, cuenta con una amplia comunidad que dispone de un gran número de librerías externas.</p>
             </div>
           </div>
           <div class="col-md-4 mb-5 ftco-animate">
             <div class="block-10">
               <div class="person-info mb-2">
-                <span class="name">Tecnologia 1</span>
+                <span class="name">Mysql</span>
                 <span class="position"> porque utilizarlo</span>
               </div>
-              <img src="imagenes/person_1.jpg" alt="" class="img-fluid mb-3">
-              <p>Descripcion.</p>
+              <img src="imagenes/mysql.jpg" alt="" class="img-fluid mb-3">
+              <p>Es fácil de aprender: Simplemente con conocer el estándar de SQL podemos manejar la base de datos MySQL si ningún problema.</p>
             </div>
           </div>
           <div class="col-md-4 mb-5 ftco-animate">
             <div class="block-10">
               <div class="person-info mb-2">
-                <span class="name">Tecnologia 1</span>
+                <span class="name">NodeJS</span>
                 <span class="position"> porque utilizarlo</span>
               </div>
-              <img src="imagenes/person_1.jpg" alt="" class="img-fluid mb-3">
-              <p>Descripcion.</p>
+              <img src="imagenes/node-js.jpg" alt="" class="img-fluid mb-3">
+              <p>El desarrollo de aplicaciones es mucho más rápido, las aplicaciones también y por lo tanto el usuario puede acceder a una mejor experiencia de uso.</p>
             </div>
           </div>
         </div>

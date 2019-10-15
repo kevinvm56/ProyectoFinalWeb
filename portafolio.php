@@ -77,7 +77,7 @@
         <div class="row">
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_1.jpg');">
+              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/agenda.jpg');">
               </a>
               <div class="text p-4 d-block">
                 <div class="meta mb-3">
@@ -85,13 +85,13 @@
                   <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Titulo del proyecto</a></h3>
+                <h3 class="heading"><a href="#">Agenda</a></h3>
               </div>
             </div>
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry" data-aos-delay="100">
-              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_2.jpg');">
+              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/noticiero.jpg');">
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
@@ -99,13 +99,13 @@
                   <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Titulo del proyecto</a></h3>
+                <h3 class="heading"><a href="#">Noticieros</a></h3>
               </div>
             </div>
           </div>
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry" data-aos-delay="200">
-              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/image_3.jpg');">
+              <a href="blog-single.html" class="block-20" style="background-image: url('imagenes/red.jpg');">
               </a>
               <div class="text p-4">
                 <div class="meta mb-3">
@@ -113,7 +113,7 @@
                   <div><a href="#">Administrador</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
-                <h3 class="heading"><a href="#">Titulo del proyecto</a></h3>
+                <h3 class="heading"><a href="#">Configuracion de redes</a></h3>
               </div>
             </div>
           </div>
@@ -134,11 +134,11 @@
           <div class="col-md-4 mb-5 ftco-animate">
             <div class="block-10">
               <div class="person-info mb-2">
-                <span class="name">Titulo del proyecto</span>
-                <span class="position">Fecha</span>
+                <span class="name">Paginas de venta</span>
+                <span class="position">Octubre, 2019</span>
               </div>
-              <img src="imagenes/about.jpg" alt="" class="img-fluid mb-3">
-              <p>Descripcion.</p>
+              <img src="imagenes/age.jpg" alt="" class="img-fluid mb-3">
+              <p>Pagina enfocada en ventas de articulos informaticos.</p>
             </div>
           </div>
           <div class="col-md-4 mb-5 ftco-animate">
@@ -147,8 +147,8 @@
                 <span class="name">Aldin Henderson</span>
                 <span class="position">Web Developer</span>
               </div>
-              <img src="imagenes/about.jpg" alt="" class="img-fluid mb-3">
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <img src="imagenes/not.jpg" alt="" class="img-fluid mb-3">
+              <p>Un progroma desarrollado para mostrar noticias relevantes del dia.</p>
             </div>
           </div>
           <div class="col-md-4 mb-5 ftco-animate">
@@ -157,8 +157,8 @@
                 <span class="name">Mark Willis</span>
                 <span class="position">Lead Web Developer</span>
               </div>
-              <img src="imagenes/about.jpg" alt="" class="img-fluid mb-3">
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              <img src="imagenes/redf.jpg" alt="" class="img-fluid mb-3">
+              <p>Se configura las redes requeridas en cualquier lugar.</p>
             </div>
           </div>
         </div>
